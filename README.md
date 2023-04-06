@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/PabloSgns/Oh_My_Food">
-    <img src="https://github.com/PabloSgns/Oh_My_Food/blob/main/img/logo/ohmyfood_readme.png" alt="Logo" width="350" height="80">
+  <a href="https://github.com/Pasacod/Oh_My_Food">
+    <img src="https://github.com/Pasacod/Oh_My_Food/blob/main/img/logo/ohmyfood_readme.png" alt="Logo" width="350" height="80">
   </a>
 
 <h3 align="center">Oh My Food</h3>
@@ -11,10 +11,10 @@
     This project is the n°3 of OpenClassrooms Web Developper course which consists in energizing a web page with CSS animations.
     <br />
     <br />
-    <a href="https://github.com/PabloSgns/Oh_My_Food"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Pasacod/Oh_My_Food"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://pablosgns.github.io/Oh_My_Food/">View Demo</a>
+    <a href="https://Pasacod.github.io/Oh_My_Food/">View Demo</a>
   </p>
 </div>
 
@@ -45,7 +45,7 @@
 ## About The Project
 
 <div align="center">
-    <img src="https://github.com/PabloSgns/Oh_My_Food/blob/main/img/logo/screenshot_readme.png" alt="Logo" width="900" height="700">
+    <img src="https://github.com/Pasacod/Oh_My_Food/blob/main/img/logo/screenshot_readme.png" alt="Logo" width="900" height="700">
 </div>
 
 <br/>
@@ -71,7 +71,7 @@ The entire site must be responsive, pass W3C validation in HTML and CSS, and be 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/PabloSgns/Oh_My_Food.git
+   git clone https://github.com/Pasacod/Oh_My_Food.git
    ```
 2. Launch "index.html" and navigate.
 
